@@ -1,0 +1,83 @@
+body {
+	width: 100%;
+	height: auto;
+}
+
+.row {
+	width: 100%;
+	/*padding-top: 100px;*/
+	font-size: 21px;
+}
+
+.navbar-header {
+	height: 120px;
+    width: 100%;
+    float: right;
+}
+
+.menubar {
+	float: right;
+} 
+
+.menubar > a {
+	padding-top: 43px;
+	font-size: x-large;
+	padding-right: 90px;
+	color: white;
+}
+
+.menubar > p {
+	font-size: 45px;
+    color: white;
+    padding-top: 44px;
+    padding-right: 400px;
+}
+
+
+.banner-image {
+	background : url(../images/slideabout.jpg);
+	height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+
+.info {
+	padding-top: 180px;
+	padding-left: 50PX;
+	font-size: x-large;
+	font-color : red;	
+}
+
+.info > h3 {
+	font-size: 40px;
+}
+
+
+.info > h3 {
+	font-size: 40px;
+	float:right;
+	font-color: red;
+	margin:inherit;
+
+}
+
+.info > h1 {
+	font-size: 100px;
+	font-color: white;
+
+}
+
+.info > p {
+	font-size:30px;
+	font-color: #435345
+	
+}
+
+.contact-form {
+	padding-top: 180px;
+	padding-left:350px;
+}
